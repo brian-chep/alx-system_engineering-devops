@@ -1,2 +1,2 @@
 #!/bin/bash
-cat "Reverse" | sort -r
+sort -r
